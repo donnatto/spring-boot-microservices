@@ -1,4 +1,4 @@
-package com.donnatto.fraud;
+package com.donnatto.customer;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
