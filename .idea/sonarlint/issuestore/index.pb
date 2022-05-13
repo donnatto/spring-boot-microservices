@@ -20,5 +20,3 @@ m
 =fraud/src/main/java/com/donnatto/fraud/FraudCheckService.java,b/3/b388a05330fe543f07df2260ea52c0d86545b737
 p
 @fraud/src/main/java/com/donnatto/fraud/FraudCheckController.java,b/f/bfec6efa8358957cfa59536080ee17482919ccdf
-p
-@customer/src/main/java/com/donnatto/customer/CustomerConfig.java,a/d/ad33daf4917a3232517965d5f9bfb0909eedfd58
