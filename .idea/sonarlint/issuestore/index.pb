@@ -18,5 +18,3 @@ w
 Gfraud/src/main/java/com/donnatto/fraud/FraudCheckHistoryRepository.java,3/f/3f828b7fc3a595ac2453b92a5b54cca8cabc3d5b
 m
 =fraud/src/main/java/com/donnatto/fraud/FraudCheckService.java,b/3/b388a05330fe543f07df2260ea52c0d86545b737
-p
-@fraud/src/main/java/com/donnatto/fraud/FraudCheckController.java,b/f/bfec6efa8358957cfa59536080ee17482919ccdf
