@@ -16,5 +16,3 @@ t
 Dcustomer/src/main/java/com/donnatto/customer/CustomerController.java,9/d/9d4d7d3d2974f84fdb6266451b85d0f283233db1
 w
 Gfraud/src/main/java/com/donnatto/fraud/FraudCheckHistoryRepository.java,3/f/3f828b7fc3a595ac2453b92a5b54cca8cabc3d5b
-m
-=fraud/src/main/java/com/donnatto/fraud/FraudCheckService.java,b/3/b388a05330fe543f07df2260ea52c0d86545b737
