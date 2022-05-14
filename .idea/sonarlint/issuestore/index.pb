@@ -4,8 +4,6 @@ Mcustomer/src/main/java/com/donnatto/customer/CustomerRegistrationRequest.java,
 :
 
 .gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302
-B
-docker-compose.yml,3/5/35b8c13cf2eb2a194eada000eb310d65aed53b2a
 t
 Dcustomer/src/main/java/com/donnatto/customer/CustomerRepository.java,6/7/6733ed7bb34734c215e77eac3b5009f1febb4732
 m
