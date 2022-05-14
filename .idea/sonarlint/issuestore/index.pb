@@ -34,8 +34,6 @@ Pclients/src/main/java/com/donnatto/clients/notification/NotificationRequest.jav
 Oclients/src/main/java/com/donnatto/clients/notification/NotificationClient.java,4/d/4d07965249966d9731a862898b838af5a59e8061
 v
 Fnotification/src/main/java/com/donnatto/notification/Notification.java,5/d/5d1a3f869a1bd7a10927f828c34b9e4bf5c42af0
-Å
-Qnotification/src/main/java/com/donnatto/notification/NotificationApplication.java,7/a/7a26ea459a0b7394fddfdf702b8a2dfee5dd88b8
 Ä
 Pnotification/src/main/java/com/donnatto/notification/NotificationController.java,e/d/ed8d4f27cafacf6ee2225d6a923b039cf21ff3fd
 Ä
