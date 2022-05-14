@@ -14,10 +14,6 @@ Gfraud/src/main/java/com/donnatto/fraud/FraudCheckHistoryRepository.java,3/f/3f
 Reureka-server/src/main/java/com/donnatto/eurekaserver/EurekaServerApplication.java,0/d/0df699cf2e3c25649fbadbfd5b3bc549430ffaca
 p
 @customer/src/main/java/com/donnatto/customer/CustomerConfig.java,a/d/ad33daf4917a3232517965d5f9bfb0909eedfd58
-?
-clients/pom.xml,e/8/e897e41994586ab73af075bc072526099d5eec43
-7
-pom.xml,4/4/442292b8a7efeabbe4cc176709b833b1792140ec
 p
 @fraud/src/main/java/com/donnatto/fraud/FraudCheckController.java,b/f/bfec6efa8358957cfa59536080ee17482919ccdf
 t
