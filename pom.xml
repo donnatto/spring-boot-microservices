@@ -88,14 +88,17 @@
                     <configuration>
                         <from>
                             <image>eclipse-temurin:8</image>
-                            <platform>
-                                <architecture>arm64</architecture>
-                                <os>linux</os>
-                            </platform>
-                            <platform>
-                                <architecture>amd64</architecture>
-                                <os>linux</os>
-                            </platform>
+                            <platforms>
+                                <platform>
+                                    <architecture>arm64</architecture>
+                                    <os>linux</os>
+                                </platform>
+                                <platform>
+                                    <architecture>amd64</architecture>
+                                    <os>linux</os>
+                                </platform>
+
+                            </platforms>
                         </from>
                         <to>
                             <tags>
@@ -103,6 +106,14 @@
                             </tags>
                         </to>
                     </configuration>
+                    <executions>
+                        <execution>
+                            <phase>package</phase>
+                            <goals>
+                                <goal>build</goal>
+                            </goals>
+                        </execution>
+                    </executions>
                 </plugin>
             </plugins>
         </pluginManagement>
