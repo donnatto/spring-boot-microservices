@@ -60,7 +60,7 @@ spec:
             - name: RABBITMQ_NODENAME
               value: rabbit@$(MY_POD_NAME).$(K8S_SERVICE_NAME).$(MY_POD_NAMESPACE).svc.cluster.local
             - name: K8S_HOSTNAME_SUFFIX
-              value: $(K8S_SERVICE_NAME).$(MY_POD_NAMESPACE).svc.cluster.local
+              value: .$(K8S_SERVICE_NAME).$(MY_POD_NAMESPACE).svc.cluster.local
             - name: RABBITMQ_ERLANG_COOKIE
               value: "mycookie"
       volumes:
@@ -68,7 +68,7 @@ spec:
           configMap:
             name: rabbitmq-config
             items:
-              - key: rabbitmq.config
-                path: rabbitmq.config
+              - key: rabbitmq.conf
+                path: rabbitmq.conf
               - key: enabled_plugins
                 path: enabled_plugins
