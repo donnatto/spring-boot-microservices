@@ -26,16 +26,10 @@ m
 =fraud/src/main/java/com/donnatto/fraud/FraudCheckService.java,b/3/b388a05330fe543f07df2260ea52c0d86545b737
 €
 Pclients/src/main/java/com/donnatto/clients/notification/NotificationRequest.java,f/0/f0bf5d3249112218238e215731a582aabe6706bc
-
-Oclients/src/main/java/com/donnatto/clients/notification/NotificationClient.java,4/d/4d07965249966d9731a862898b838af5a59e8061
 €
 Pnotification/src/main/java/com/donnatto/notification/NotificationRepository.java,3/e/3ed1ae65c6c49f9863ccb642c953e40b1b7a0fdc
 }
 Mnotification/src/main/java/com/donnatto/notification/NotificationService.java,3/e/3e7e67df638a199643357bd2c400bd778064c67d
-q
-Aclients/src/main/java/com/donnatto/clients/fraud/FraudClient.java,6/9/6977c9130d8b8880a3ebfe7bb83902600a5bf758
-l
-<fraud/src/main/java/com/donnatto/fraud/FraudApplication.java,b/0/b0666ea20533275ec0693a4f23fa9cc3535b6680
 l
 <apigw/src/main/java/com/donnatto/apigw/ApiGWApplication.java,1/c/1cc53bb6314a8c148c608f194048b9b5bcdb2fd2
 q
@@ -44,10 +38,6 @@ v
 Fnotification/src/main/java/com/donnatto/notification/Notification.java,5/d/5d1a3f869a1bd7a10927f828c34b9e4bf5c42af0
 q
 Acustomer/src/main/java/com/donnatto/customer/CustomerService.java,8/d/8dcb309578b7ae416a3006e9f1929095823f86d1
-u
-Ecustomer/src/main/java/com/donnatto/customer/CustomerApplication.java,a/e/ae9dab15ec93df096f6b6ea864b513e604c65eb7
-
-Qnotification/src/main/java/com/donnatto/notification/NotificationApplication.java,7/a/7a26ea459a0b7394fddfdf702b8a2dfee5dd88b8
 €
 Pnotification/src/main/java/com/donnatto/notification/NotificationController.java,e/d/ed8d4f27cafacf6ee2225d6a923b039cf21ff3fd
 ‡
